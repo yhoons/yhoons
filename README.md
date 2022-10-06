@@ -6,18 +6,25 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=ros&logoColor=white"/>
+
 </div>
-## Studying for :pencil2:
-<img src="https://img.shields.io/badge/ros=22314E?style=flat&logo=ros&logoColor=white"/>
+<br/><br/>
 
 ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhoons&theme=gruvbox&show_icons=true)
 
+## Introduction :raised_hands:
+Hi, I am studying to become a automous vehicle developer :car:
+<br/><br/>
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yhoons)](https://solved.ac/yhoons)<br/>
+
+
+
 
 
 ## BOJ 📖: 
 </a>
- 
-[[Solved.ac 프로필]!(http://mazassumnida.wtf/api/generate_badge?boj=dudgns0407)](https://solved.ac/dudgns0407)<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dudgns0407)](https://solved.ac/dudgns0407)<br/>
+<br/><br/><br/>
