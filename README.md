@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 </div>
 ## Studying for :pencil2:
-<img src="https://img.shields.io/badge/ros22314E?style=flat&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/ros=22314E?style=flat&logo=ros&logoColor=white"/>
 
 ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhoons&theme=gruvbox&show_icons=true)
 
