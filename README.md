@@ -14,7 +14,7 @@
 ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhoons&theme=gruvbox&show_icons=true)
 
 ## Introduction :raised_hands:
-Hi, I am studying to become a automous vehicle developer :car:
+Hi, I am studying to become a autonomous vehicle developer :car:
 <br/><br/>
 
 
