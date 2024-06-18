@@ -16,7 +16,7 @@
 
 
 ## Introduction :raised_hands:
-Hi, I am studying to become a autonomous vehicle developer :car:
+Hi, I am studying Computer Vision for Autonomous Driving :car:
 
 Visual SLAM project - https://ssellu.github.io/#/frozen-city
 <br/><br/>
